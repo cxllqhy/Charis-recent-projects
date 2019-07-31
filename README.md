@@ -4,9 +4,11 @@ This is a collection of the projects in working progress or completed within the
 
 ## Financial Analysis notebooks </sup>[*](#Note)</sup>
 
-These notebooks outline how to scrape and process SEC data:
+These notebooks outline how to scrape and process SEC data from:
 
 [https://www.sec.gov/edgar.shtml](https://www.sec.gov/edgar.shtml)
+
+for sentiment analysis 
 
 ## R-fMRI Analysis</sup>[**](#Note)</sup>
 
