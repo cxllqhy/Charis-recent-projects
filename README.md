@@ -1,6 +1,6 @@
 #  Introduction
 
-This is a collection of the projects in working progress or completed within the last 2 months.
+This is a collection of the projects in working progress or completed within the last few months.
 
 ## Financial Analysis notebooks </sup>[*](#Note)</sup>
 
