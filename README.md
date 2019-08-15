@@ -3,16 +3,13 @@
 This is a collection of the projects in working progress or completed within the last few months.
 
 ## Financial Analysis notebooks </sup>[*](#Note)</sup>
-
 These notebooks outline how to scrape and process SEC data from:
-
 [https://www.sec.gov/edgar.shtml](https://www.sec.gov/edgar.shtml)
-
 for sentiment analysis 
 
 ## R-fMRI Analysis</sup>[**](#Note)</sup>
 
-Downloading and processing of resting state functional magnetic resonance images data via the [nilearn](https://nilearn.github.io/) python module makes it easy to download and setup processing pipelines for fMRI data. I have chosen to look at the [ABIDE(Autism Brain Imaging Data Exchange)](https://github.com/OpenXAIProject/Preprocessed_ABIDE_Dataset). Dataset 1 contains 1112 dataset, including 539 from individuals with ASD and 573 from typical controls (ages 7-64 years, median 14.7 years across groups).  
+Autism Spectrum Disorder is a permanent brain-based disorder characterized by social deficits and repetitive behaviors that is currently diagnosed at the rate of 1 in every 68 children. Various state-of-art applied machine learning algorithms were applied to identify autism spectrum disorder patients from a world-wide multi-site database known as Autism Brain Imaging Data Exchange. Patterns of functional connectivity that objectively identify autism from functional brain imaging data were investigated to unveil the neural patterns that emerged from unsupervised classification. Results achieved 70% accuracy in identification of autism versus control patients, patterns that emerged from the classification show an anticorrelation of brain function between anterior and posterior areas of the brain, which corroborates anterior-posterior disruption in brain connectivity as documented in the latest empirical medical studies.
 
 ##  Privacy preserving Machine Learning
 
