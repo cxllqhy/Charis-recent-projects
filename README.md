@@ -23,6 +23,11 @@ See the
 project for recent developments in the area.
 </sup>[1](https://arxiv.org/abs/1811.04017)</sup>
 
+## SQL, PL-SQL, PowerBI, Oracle Developer, ETL
+1. Performed requirement analysis, implemented and queried relational database for a young tour organization that take groups of street art enthusiasts to dedicated street art precincts.
+2. Business intelligence analytics with Advanced Cycle Works dataset
+3. SQL server scripts
+4. ...
 
 #### Note
 \* finance project is 10GB on Cloudstor, please email to request access for recruitment assessment purposes.
