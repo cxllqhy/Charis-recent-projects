@@ -27,6 +27,10 @@ project for recent developments in the area.
 3. SQL server scripts
 4. ...
 
+## Independent contractor: Google Classroom integrated AI product on the Google Cloud Platform
+...
+
+
 #### Note
 \* finance project is 10GB on Cloudstor, please email to request access for recruitment assessment purposes.
 
