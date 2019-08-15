@@ -2,9 +2,10 @@
 
 This is a collection of the projects in working progress or completed within the last few months.
 
-## Financial Analysis notebooks </sup>[*](#Note)</sup>
-These notebooks outline how to scrape and process SEC data from:
-[https://www.sec.gov/edgar.shtml](https://www.sec.gov/edgar.shtml)
+## Dollar neutral portfolio optimisation based on financial statement and news sentiment analyses</sup>[*](#Note)</sup>
+Scraped and modeled 1.5 million documents  (annual and quarterly compliance reports to the Security Exchange Commission and real time financial news on reputable news media) on an universe of American Deposit Receipts listings on NASDAQ and New York Stock Exchange. Used a large variety of natural language processing, unsupervised learning, deep supervised learning, reinforcement learning and constraint optimization techniques. Project currently undergoing rigorous back-testing, preliminary results indicative of consistent 25% annual return on fully hedged investment portfolio.
+
+These notebooks outline how to scrape and process SEC data from: [https://www.sec.gov/edgar.shtml](https://www.sec.gov/edgar.shtml)
 for sentiment analysis 
 
 ## Autism fMRI neuroimaging (functional connectome mapping using computer vision and deep learning)</sup>[**](#Note)</sup>
